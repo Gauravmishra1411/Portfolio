@@ -38,6 +38,8 @@ function Navbar() {
         {/* <img src="./img/logo.svg" alt="Logoipsum" /> */}
         <h2>Portfolio</h2>
       </div>
+
+      
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
         onClick={toggleNav}
