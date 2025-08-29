@@ -3,7 +3,7 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm Manohar</p>
+          <p className="section--title">Hey, I'm Gaurav</p>
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">Full Stack</span>{" "}
             <br />
@@ -17,8 +17,7 @@ export default function HeroSection() {
         <button className="btn btn-primary">
           <a
           target="_blank"
-          href="https://drive.google.com/file/d/1-1a9AA2ECYIbRSq5OsoyeUTR7i8iM2DC/view?usp=sharing"
-             className="github-btn btn-h"
+          href="https://drive.google.com/drive/home"
           >
             Resume
           </a>
