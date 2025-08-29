@@ -17,7 +17,7 @@ export default function HeroSection() {
         <button className="btn btn-primary">
           <a
           target="_blank"
-          href="https://drive.google.com/drive/home"
+          href="https://drive.google.com/file/d/11vnasWeQsX4LXVhLMz4YV9UigehZOcgp/view?usp=drive_link"
           >
             Resume
           </a>
